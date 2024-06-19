@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kareem Adel</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kareemadelawwad" alt="kareemadelawwad" /></a> </p>
-
 - 🔭 I’m currently working on [Steam Clone - Better UI/UX](https://github.com/KareemAdelAwwad/Steam)
 
 - 🌱 I’m currently learning **ReactJS, and Mastering JavaScript**
