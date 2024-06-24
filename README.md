@@ -4,7 +4,7 @@
 
 
 <img src='./banner.png' style='border-radius: 8px;'/>
-<br/><br/>
+<br/>
 <h1 align="center" style="font-family: 'Playwrite NG Modern', cursive;">Hi 👋, I'm 
 <span style="background: linear-gradient(to right, #00dbde 0%, #fc00ff 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; color: transparent; font-weight: 900;">Kareem Adel</span>
 
