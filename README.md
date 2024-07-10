@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [Steam Clone - Better UI/UX](https://github.com/KareemAdelAwwad/Steam)
 
-- 🌱 I’m currently learning **React JS, and Mastering JavaScript**
+- 🌱 I’m currently learning **Mastering JavaScript and React**
 
 - 🤝 I’m looking for help with [Solo Leveling System - Web App](https://github.com/KareemAdelAwwad/Solo-Leveling)
 
