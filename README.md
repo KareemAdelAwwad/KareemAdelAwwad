@@ -48,9 +48,7 @@
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
 <img src="./icons/tools/vitejs.svg" alt="vitejs" width="40" height="40"/>
 </a>
-</p>
-
-<p align="center">
+&nbsp; &nbsp; &nbsp; &nbsp;
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 </a>
@@ -72,8 +70,7 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
 </a>
-</p>
-<p align="right">
+&nbsp; &nbsp; &nbsp; &nbsp;
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
 <img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" alt="photoshop" width="40" height="40"/>
 </a>
