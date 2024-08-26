@@ -13,8 +13,6 @@
 
 - 🌱 I’m currently learning **Mastering JavaScript and React**
 
-- 🤝 I’m looking for help with [Solo Leveling System - Web App](https://github.com/KareemAdelAwwad/Solo-Leveling)
-
 - 📫 How to reach me **kareem.adel.awad@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -60,6 +58,9 @@
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</a>
+<a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
+<img src="./icons/tools/typescript.svg" alt="javascript" width="40" height="40"/>
 </a>
 <a href="https://react.dev/" target="_blank" rel="noreferrer">
 <img src="./icons/tools/react.svg" alt="react.js" width="40" height="40"/>
