@@ -21,7 +21,7 @@
 </a>
 <a href="https://linkedin.com/in/kareem-adel-awwad" target="blank"><img align="center" src="./icons/socialmedia/linkedin.svg" alt="kareem-adel-awwad" height="30" width="40" /></a>
 <a href="https://fb.com/kareemadelawwad" target="blank"><img align="center" src="./icons/socialmedia/facebook.svg" alt="kareemadelawwad" height="40" width="40" /></a>
-<a href="https://www.youtube.com/c/ucnqf8nv9fwdumwwvh0c9xwa" target="blank"><img align="center" src="./icons/socialmedia/youtube.svg" alt="ucnqf8nv9fwdumwwvh0c9xwa" height="40" width="40" /></a>
+<a href="https://www.youtube.com/@kareemadelawwad" target="blank"><img align="center" src="./icons/socialmedia/youtube.svg" alt="kareemadelawwad" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
