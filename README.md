@@ -9,9 +9,9 @@
 </h1>
 <h3 align="center">A passionate frontend developer from Egypt, </h3>
 
-- 🔭 I’m currently working on [Steam Clone - Better UI/UX](https://github.com/KareemAdelAwwad/Steam)
+- 🔭 I’m currently working on a Very Secret Project 🤫
 
-- 🌱 I’m currently learning **Mastering JavaScript and React**
+- 🌱 I’m currently learning **Mastering React**
 
 - 📫 How to reach me **kareem.adel.awad@gmail.com**
 
