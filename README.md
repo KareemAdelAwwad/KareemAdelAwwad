@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Mastering React**
 
-- 📫 How to reach me **kareem.adel.awad@gmail.com**
+- 📫 How to reach me **contact@kareem-adel.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
