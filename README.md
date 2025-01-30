@@ -2,7 +2,6 @@
     <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@200..1000&family=Playwrite+NG+Modern:wght@100..400&family=Roboto:ital,wght@0,400;0,700;0,900;1,400&family=Tajawal:wght@200;300;400;500;700;800;900&display=swap" rel="stylesheet">
 </head>
 
-<img src='./banner.png' style='border-radius: 8px;'/>
 <h1 align="center" style="font-family: 'Playwrite NG Modern', cursive;">Hi 👋, I'm 
 <span style="background: linear-gradient(to right, #00dbde 0%, #fc00ff 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; color: transparent; font-weight: 900;">Kareem Adel</span>
 
@@ -11,7 +10,7 @@
 
 - 🔭 I’m currently working on a Very Secret Project 🤫
 
-- 🌱 I’m currently learning **Mastering React**
+- 🌱 I’m currently learning **Mastering React & Next.js**
 
 - 📫 How to reach me **contact@kareem-adel.com**
 
